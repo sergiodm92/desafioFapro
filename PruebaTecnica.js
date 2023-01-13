@@ -24,5 +24,5 @@ const substringLongest = () => {
     return largestString
 }
     
-    console.log(substringLongest(),substringLongest().length)
+    console.log(substringLongest())
 
